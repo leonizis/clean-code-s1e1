@@ -18,9 +18,11 @@
 }
 
 @media (max-width:768px) {
+
   .logo {
     text-align: center;
   }
+
 }
 .centered-main__element {
   display: block;
@@ -57,6 +59,7 @@ button {
 button:hover {
   color: #3a3A3a;
 }
+
 /* Heading */
 h3, label[for="new-task"] {
   color: #333;
